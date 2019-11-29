@@ -31,6 +31,8 @@ Those who are new to meta-learning, I recommend to start with reading these
 
 ## Generation
 + **Few-Shot Adversarial Learning of Realistic Neural Talking Head Models**, (ICCV 2019), [[link]](https://arxiv.org/abs/1905.08233)
++ **Few-Shot Adaptive Gaze Estimation**, (ICCV 2019), [[link]](https://arxiv.org/abs/1905.01941)
++ **MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets**, (AAAI 2020), [[link]](https://arxiv.org/abs/1911.08139)
 
 ## Unsupervised, Representation
 + **Unsupervised Learning via Meta-Learning**, (ICLR 2019), [[link]](https://arxiv.org/abs/1810.02334)
