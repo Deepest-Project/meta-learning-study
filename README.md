@@ -1,5 +1,5 @@
 # Meta-Learning-Study
-Deepest Season 6 Meta-Learning study papers plus alpha
+Deepest Season 6 Meta-Learning study papers plus alpha  
 #Those who are new to meta-learning, I recommend to start with reading these
 + Model-agnostic Meta-Learning for Fast Adaptation of Deep Networks
 + Prototypical Networks for Few-shot Learning
