@@ -7,7 +7,7 @@ Deepest Season 6 Meta-Learning study papers plus alpha
 + **Meta-Learning with Implicit Gradients**, (NeurIPS 2019), [link](https://arxiv.org/abs/1909.04630)
 
 ## Metric-Learning based Meta-Learning
-+ **
++ **Prototypical Networks for Few-shot Learning**, (NIPS 2017), [[link]](https://arxiv.org/abs/1703.05175)
 
 ## Black-box adaptation based Meta-Learning
 + **A Simple Neural Attentive Meta-Learner**, (ICLR 2018), [link](https://arxiv.org/abs/1707.03141)
