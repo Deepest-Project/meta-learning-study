@@ -25,10 +25,13 @@ Deepest Season 6 Meta-Learning study papers plus alpha
 
 ## Realistic Setting
 + **Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples**, (ICLR 2020 under review), [[link]](https://arxiv.org/abs/1903.03096)
++ **A Closer Look at Few-shot Classification**, (ICLR 2019), [[link]](https://arxiv.org/abs/1904.04232)
 
 ## Object Detection and Segmentation
 + **CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning**, (CVPR 2019), [[link]](https://arxiv.org/abs/1903.02351)
 + **Few-shot Object Detection via Feature Reweighting**, (ICCV 2019), [[link]](https://arxiv.org/abs/1812.01866)
+
+## Self-Supervised Learning
 
 ## Neural Process
 
