@@ -5,15 +5,16 @@ Those who are new to meta-learning, I recommend to start with reading these
 + Model-agnostic Meta-Learning for Fast Adaptation of Deep Networks
 + Prototypical Networks for Few-shot Learning
 + ICML 2019 Meta-Learning Tutorial [[link]](https://sites.google.com/view/icml19metalearning)
++ CS 330: Deep Multi-Task and Meta Learning [[link]](http://cs330.stanford.edu/)
 
 ## Optimization-based Meta-Learning
 + **Model-agnostic Meta-Learning for Fast Adaptation of Deep Networks**, (ICML 2017), [[link]](https://arxiv.org/abs/1703.03400)
 + **Meta-Learning with Latent Embedding Optimization**, (ICLR 2019), [[link]](https://arxiv.org/abs/1807.05960)
 + **Meta-Learning with Differentiable Convex Optimization**, (CVPR 2019), [[link]](https://arxiv.org/abs/1904.03758)
 + **How to Train Your MAML**, (ICLR 2019), [[link]](https://arxiv.org/abs/1810.09502)
-+ **Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML**, [[link]](https://arxiv.org/abs/1909.09157)
++ **Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML**, (NeurIPs 2019 workshop)[[link]](https://arxiv.org/abs/1909.09157)
 + **Meta-Learning with Implicit Gradients**, (NIPS 2019), [[link]](https://arxiv.org/abs/1909.04630)
-+ **Meta-Learning with Warped Gradient Descent**, (ICLR 2020 under review), [[link]](https://openreview.net/forum?id=rkeiQlBFPB)
++ **Meta-Learning with Warped Gradient Descent**, (ICLR 2020), [[link]](https://openreview.net/forum?id=rkeiQlBFPB)
 
 ## Metric-Learning based Meta-Learning
 + **Prototypical Networks for Few-shot Learning**, (NIPS 2017), [[link]](https://arxiv.org/abs/1703.05175)
@@ -35,7 +36,7 @@ Those who are new to meta-learning, I recommend to start with reading these
 + **Few-Shot Adversarial Learning of Realistic Neural Talking Head Models**, (ICCV 2019), [[link]](https://arxiv.org/abs/1905.08233)
 + **Few-Shot Adaptive Gaze Estimation**, (ICCV 2019), [[link]](https://arxiv.org/abs/1905.01941)
 + **MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets**, (AAAI 2020), [[link]](https://arxiv.org/abs/1911.08139)
-+ **MetaPix: Few-Shot Video Retargeting**, (ICLR 2020 under review), [[link]](https://openreview.net/forum?id=SJx1URNKwH)
++ **MetaPix: Few-Shot Video Retargeting**, (ICLR 2020), [[link]](https://openreview.net/forum?id=SJx1URNKwH)
 
 ## Unsupervised, Representation
 + **Unsupervised Learning via Meta-Learning**, (ICLR 2019), [[link]](https://arxiv.org/abs/1810.02334)
@@ -44,6 +45,7 @@ Those who are new to meta-learning, I recommend to start with reading these
 ## Realistic Setting
 + **A Closer Look at Few-shot Classification**, (ICLR 2019), [[link]](https://arxiv.org/abs/1904.04232)
 + **Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples**, (ICLR 2020 under review), [[link]](https://arxiv.org/abs/1903.03096)
++ **Meta-Learning without Memorization**, (ICLR2020), [[link]](https://arxiv.org/abs/1912.03820)
 
 ## Object Detection and Segmentation
 + **CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning**, (CVPR 2019), [[link]](https://arxiv.org/abs/1903.02351)
