@@ -10,7 +10,6 @@ Those who are new to meta-learning, I recommend to start with reading these
 ## Optimization-based Meta-Learning
 + **Model-agnostic Meta-Learning for Fast Adaptation of Deep Networks**, (ICML 2017), [[link]](https://arxiv.org/abs/1703.03400)
 + **Meta-Learning with Latent Embedding Optimization**, (ICLR 2019), [[link]](https://arxiv.org/abs/1807.05960)
-+ **Meta-Learning with Differentiable Convex Optimization**, (CVPR 2019), [[link]](https://arxiv.org/abs/1904.03758)
 + **How to Train Your MAML**, (ICLR 2019), [[link]](https://arxiv.org/abs/1810.09502)
 + **Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML**, (NeurIPs 2019 workshop)[[link]](https://arxiv.org/abs/1909.09157)
 + **Meta-Learning with Implicit Gradients**, (NIPS 2019), [[link]](https://arxiv.org/abs/1909.04630)
@@ -26,6 +25,7 @@ Those who are new to meta-learning, I recommend to start with reading these
 + **One-shot Learning with Memory-Augmented Neural Networks**, (ArXiv 2016), [[link]](https://arxiv.org/abs/1605.06065)
 + **Learning to learn by gradient descent by gradient descent**, (NIPS 2016), [[link]](https://arxiv.org/abs/1606.04474)
 + **A Simple Neural Attentive Meta-Learner**, (ICLR 2018), [[link]](https://arxiv.org/abs/1707.03141)
++ **Meta-Learning with Differentiable Convex Optimization**, (CVPR 2019), [[link]](https://arxiv.org/abs/1904.03758)
 
 ## Bayesian Approaches
 + **Towards a Neural Statistician**, (ICLR 2017), [[link]](https://arxiv.org/abs/1606.02185)
