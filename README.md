@@ -8,12 +8,12 @@ Those who are new to meta-learning, I recommend to start with reading these
 + CS 330: Deep Multi-Task and Meta Learning [[link]](http://cs330.stanford.edu/)
 
 ## Optimization-based Meta-Learning
-+ **Model-agnostic Meta-Learning for Fast Adaptation of Deep Networks**, (ICML 2017), [[link]](https://arxiv.org/abs/1703.03400)
-+ **Meta-Learning with Latent Embedding Optimization**, (ICLR 2019), [[link]](https://arxiv.org/abs/1807.05960)
-+ **How to Train Your MAML**, (ICLR 2019), [[link]](https://arxiv.org/abs/1810.09502)
-+ **Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML**, (NeurIPs 2019 workshop)[[link]](https://arxiv.org/abs/1909.09157)
-+ **Meta-Learning with Implicit Gradients**, (NIPS 2019), [[link]](https://arxiv.org/abs/1909.04630)
-+ **Meta-Learning with Warped Gradient Descent**, (ICLR 2020), [[link]](https://openreview.net/forum?id=rkeiQlBFPB)
++ Model-agnostic Meta-Learning for Fast Adaptation of Deep Networks, (ICML 2017), [[link]](https://arxiv.org/abs/1703.03400)
++ Meta-Learning with Latent Embedding Optimization, (ICLR 2019), [[link]](https://arxiv.org/abs/1807.05960)
++ How to Train Your MAML, (ICLR 2019), [[link]](https://arxiv.org/abs/1810.09502)
++ Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML, (NeurIPs 2019 workshop)[[link]](https://arxiv.org/abs/1909.09157)
++ Meta-Learning with Implicit Gradients, (NIPS 2019), [[link]](https://arxiv.org/abs/1909.04630)
++ Meta-Learning with Warped Gradient Descent, (ICLR 2020), [[link]](https://openreview.net/forum?id=rkeiQlBFPB)
 
 ## Metric-Learning based Meta-Learning
 + **Prototypical Networks for Few-shot Learning**, (NIPS 2017), [[link]](https://arxiv.org/abs/1703.05175)
